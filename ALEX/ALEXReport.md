@@ -1,3 +1,17 @@
+---
+layout: post
+read_time: true
+show_date: true
+title:  ALEX - An Updatable Adaptive Learned Index
+date:   2022-05-25 13:06:20 -0600
+description: "Learnings from Research Paper"
+img: ./images/image1.png
+tags: [machine learning, data structures, m-tree, b-tree, alex, coding, learned metric index]
+author: [Aastha, Satwik Tiwari, Ramit Gupta, Bhaskar Gupta]
+github:
+toc: yes # leave empty or erase for no TOC
+---
+
 <center><img src='./images/image1.png'></center>
 
 In this article, we have summarized the learning from the research paper titled “[ALEX: An Updatable Adaptive Learned Index](https://arxiv.org/pdf/1905.08898.pdf)” during our Independent Project at IIIT Delhi.
