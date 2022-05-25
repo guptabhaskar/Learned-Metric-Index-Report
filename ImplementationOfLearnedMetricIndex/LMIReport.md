@@ -1,5 +1,19 @@
+---
+layout: post
+read_time: true
+show_date: true
+title: Implementation of Learned Metric Index
+date:   2022-05-25 13:06:20 -0600
+description: "Learnings From Research Paper"
+img: ./images/image1.jpeg
+tags: [machine learning, data structures, m-tree, b-tree, alex, coding, learned metric index]
+author: [Aastha, Satwik Tiwari, Ramit Gupta, Bhaskar Gupta]
+github:
+toc: yes # leave empty or erase for no TOC
+---
+
 <center><img src='./images/image1.jpeg'></center>
-In this article, we have summarized the learning from the research paper titled [“Implementation of Learned Metric Index” by Terézia Slanináková](https://www.researchgate.net/publication/350409663_Implementation_of_Learned_Metric_Index) during our Independent Project at IIIT Delhi. The thesis discussed Learned Metric Index(LMI) for large-scale similarity searching and compared it to traditional structures like M-Tree and M-Index.
+In this article, we have summarized the learning from the research paper titled "Implementation of Learned Metric Index" by Terézia Slanináková during our Independent Project at IIIT Delhi. The thesis discussed Learned Metric Index(LMI) for large-scale similarity searching and compared it to traditional structures like M-Tree and M-Index.
 
 ## Table of Contents
 1. Motivation
