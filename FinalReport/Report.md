@@ -1,3 +1,17 @@
+---
+layout: post
+read_time: true
+show_date: true
+title:  Learned Metric Index
+date:   2022-05-25 13:06:20 -0600
+description: "Final Report IP - Learned Metric Index"
+img: ./images/image2.png
+tags: [machine learning, data structures, m-tree, b-tree, alex, coding, learned metric index]
+author: [Aastha, Satwik Tiwari, Ramit Gupta, Bhaskar Gupta]
+github:
+toc: yes # leave empty or erase for no TOC
+---
+
 ## 1. Similarity Searching
 Similarity searching is used to search a large space of objects based on the similarity between a pair of objects. The similarity is compared using a distance metric satisfying the following properties:
 1. Symmetry: 		D(O<sub>x</sub>, O<sub>y</sub>) = D(O<sub>y</sub>, O<sub>x</sub>)
