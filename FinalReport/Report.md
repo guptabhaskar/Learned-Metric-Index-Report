@@ -5,7 +5,7 @@ show_date: true
 title:  Learned Metric Index
 date:   2022-05-25 13:06:20 -0600
 description: "Final Report IP - Learned Metric Index"
-img: ./images/image2.png
+img: ./images/image1.png
 tags: [machine learning, data structures, m-tree, b-tree, alex, coding, learned metric index]
 author: [Aastha, Satwik Tiwari, Ramit Gupta, Bhaskar Gupta]
 github:
