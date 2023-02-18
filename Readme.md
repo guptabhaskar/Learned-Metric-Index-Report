@@ -1,1 +1,1 @@
-[a workaround link](FinalReport/Report.md)
+FinalReport/Report.md
